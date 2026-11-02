@@ -1,0 +1,11 @@
+2026-11-02 16:04:59,755 - [BMS-INTEGRATION] - Log file: alerts_20261102_160459.log
+2026-11-02 16:04:59,755 - [BMS-INTEGRATION] - Starting alerts polling service
+2026-11-02 16:05:00,226 - [BMS-INTEGRATION] - Fetched 128 alert(s) from 2026-11-02 16:03:59 to 2026-11-02 16:04:59
+2026-11-02 16:05:00,311 - [BMS-INTEGRATION] - Skipping D7928AJ: no valid CGK-<city> route
+2026-11-02 16:05:00,311 - [BMS-INTEGRATION] - Skipping D7928AJ: no valid CGK-<city> route
+2026-11-02 16:05:00,573 - [BMS-INTEGRATION] - BMS token refreshed, expires at 2026-11-02 23:59:59
+2026-11-02 16:05:01,260 - [BMS-INTEGRATION] - Sent {'plat_no': 'D7936AJ', 'po_id': '18', 'checkpoint': 't2_in', 'route_text': 'Jakarta'} -> {'code': 0, 'message': 'Sukses', 'data': {'No. Plat': 'D7936AJ', 'Rute': 'Jakarta', 'Checkpoint': 't2_in'}}
+2026-11-02 16:05:01,498 - [BMS-INTEGRATION] - Sent {'plat_no': 'D7936AJ', 'po_id': '18', 'checkpoint': 't2_out', 'route_text': 'Jakarta'} -> {'code': 0, 'message': 'Sukses', 'data': {'No. Plat': 'D7936AJ', 'Rute': 'Jakarta', 'Checkpoint': 't2_out'}}
+2026-11-02 16:05:01,707 - [BMS-INTEGRATION] - Sent {'plat_no': 'D7936AJ', 'po_id': '18', 'checkpoint': 't3_in', 'route_text': 'Jakarta'} -> {'code': 0, 'message': 'Sukses', 'data': {'No. Plat': 'D7936AJ', 'Rute': 'Jakarta', 'Checkpoint': 't3_in'}}
+2026-11-02 16:05:02,054 - [BMS-INTEGRATION] - Sent {'plat_no': 'D7936AJ', 'po_id': '18', 'checkpoint': 't3_out', 'route_text': 'Jakarta'} -> {'code': 0, 'message': 'Sukses', 'data': {'No. Plat': 'D7936AJ', 'Rute': 'Jakarta', 'Checkpoint': 't3_out'}}
+2026-11-02 16:05:02,054 - [BMS-INTEGRATION] - Waiting 900 seconds before next poll...

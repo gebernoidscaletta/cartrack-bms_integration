@@ -1,0 +1,23 @@
+Pengendapan:
+check_in
+check_out
+Terminal 1:
+t1_in
+t2_out
+Terminal 2:
+t2_in
+t2_out
+Terminal 3:
+t3_in
+t3_out
+
+Bearer {token}
+
+{
+    "plat_no":"B999TEST",
+    "po_id":"18",
+    "checkpoint":"t2_in",
+    "route_text":"JAKARTA"
+}
+
+

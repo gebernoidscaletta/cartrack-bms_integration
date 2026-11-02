@@ -1,0 +1,4 @@
+2026-11-02 15:57:01,654 - [BMS-INTEGRATION] - Log file: alerts_20261102_155701.log
+2026-11-02 15:57:01,654 - [BMS-INTEGRATION] - Starting alerts polling service
+2026-11-02 15:57:02,081 - [BMS-INTEGRATION] - Fetched 0 alert(s) from 2026-11-02 15:56:01 to 2026-11-02 15:57:01
+2026-11-02 15:57:02,082 - [BMS-INTEGRATION] - Waiting 900 seconds before next poll...

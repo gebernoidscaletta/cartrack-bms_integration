@@ -1,0 +1,15 @@
+2026-11-02 15:59:20,830 - [BMS-INTEGRATION] - Log file: alerts_20261102_155920.log
+2026-11-02 15:59:20,830 - [BMS-INTEGRATION] - Starting alerts polling service
+2026-11-02 15:59:21,945 - [BMS-INTEGRATION] - Fetched 128 alert(s) from 2026-11-02 15:58:20 to 2026-11-02 15:59:20
+2026-11-02 15:59:22,142 - [BMS-INTEGRATION] - Skipping D7928AJ: no valid CGK-<city> route
+2026-11-02 15:59:22,142 - [BMS-INTEGRATION] - Skipping D7928AJ: no valid CGK-<city> route
+2026-11-02 15:59:22,378 - [BMS-INTEGRATION] - BMS token refreshed, expires at 2026-11-02 23:59:59
+2026-11-02 15:59:23,315 - [BMS-INTEGRATION] - Failed to process 31a958c5-2ac6-499a-86b9-6b0beb76c384: BMS rejected checkpoint: {'code': 0, 'message': 'Sukses', 'data': {'No. Plat': 'D7936AJ', 'Rute': 'Jakarta', 'Checkpoint': 't2_in'}}
+2026-11-02 15:59:23,531 - [BMS-INTEGRATION] - Failed to process 971faa62-be3c-46a7-b9a2-378f18642cd8: BMS rejected checkpoint: {'code': 0, 'message': 'Sukses', 'data': {'No. Plat': 'D7936AJ', 'Rute': 'Jakarta', 'Checkpoint': 't2_out'}}
+2026-11-02 15:59:23,758 - [BMS-INTEGRATION] - Failed to process e8a6532c-ca9d-4117-98d7-908062cccd3e: BMS rejected checkpoint: {'code': 0, 'message': 'Sukses', 'data': {'No. Plat': 'D7936AJ', 'Rute': 'Jakarta', 'Checkpoint': 't3_in'}}
+2026-11-02 15:59:23,972 - [BMS-INTEGRATION] - Failed to process f101e8df-1b2f-44c6-a5b7-985a00a385ae: BMS rejected checkpoint: {'code': 0, 'message': 'Sukses', 'data': {'No. Plat': 'D7936AJ', 'Rute': 'Jakarta', 'Checkpoint': 't3_out'}}
+2026-11-02 15:59:24,071 - [BMS-INTEGRATION] - Skipping D7910AQ: no valid CGK-<city> route
+2026-11-02 15:59:24,072 - [BMS-INTEGRATION] - Skipping D7910AQ: no valid CGK-<city> route
+2026-11-02 15:59:24,072 - [BMS-INTEGRATION] - Skipping D7910AQ: no valid CGK-<city> route
+2026-11-02 15:59:24,072 - [BMS-INTEGRATION] - Skipping D7910AQ: no valid CGK-<city> route
+2026-11-02 15:59:24,072 - [BMS-INTEGRATION] - Waiting 900 seconds before next poll...
