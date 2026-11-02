@@ -19,7 +19,7 @@ REQUEST_TIMEOUT = 30
 PAGE_LIMIT = 1000
 
 POLL_INTERVAL = 1800 
-OVERLAP = timedelta(minutes=1) 
+OVERLAP = timedelta(minutes=30) 
 MAX_LOOKBACK = timedelta(hours=1)
 SEEN_LIMIT = 10_000
 TOKEN_MARGIN = timedelta(minutes=1)
