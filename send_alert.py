@@ -87,8 +87,8 @@ class CartrackClient:
             payload = self._get(
                 "/alerts/notifications",
                 {
-                    "filter[date_from]": "2026-11-01 00:00:00",
-                    "filter[date_to]": "2026-11-01 23:59:59",
+                    "filter[date_from]": date_from,
+                    "filter[date_to]": date_to,
                     "filter[alert_type]": "ZONE_ARRIVE_DEPART",
                     "filter[contact_type]": "RSS Feeds",
                     "sort_by": "event_ts",
